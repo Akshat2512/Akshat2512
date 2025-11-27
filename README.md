@@ -18,12 +18,12 @@ I’m a passionate developer with a **B.Tech in Computer Science** from **Graphi
 **Tools & Platforms:** 
 
 <p align="left">
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="h/devicons/devicon/icons/python/python-original.svg"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git" />        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="Github" />        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-plain-wordmark.svg" height="40" alt="Azure App Service" />        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="Fast API"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="Fast API"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React-Native"/>
 </p> 
 
  Git/GitHub, Azure App Service, CI/CD, Jenkins  
