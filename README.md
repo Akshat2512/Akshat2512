@@ -59,15 +59,17 @@ I’m a passionate developer with a **B.Tech in Computer Science** from **Graphi
 ---
 
 ## 📫 Connect With Me  
-
+```html
 <p>
   https://github.com/Akshat2512
     https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg
   </a>
   https://www.linkedin.com/in/akshat-g-449997245
-    <img src="https://cdn.simpleicons.org/linkedin/0a>
+    https://cdn.simpleicons.org/linkedin/0A66C2
+  </a>
   mailto:akshat.2016603@gmail.com
     https://cdn.simpleicons.org/gmail/EA4335
   </a>
 </p>
+```
 
