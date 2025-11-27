@@ -21,10 +21,9 @@ I’m a passionate developer with a **B.Tech in Computer Science** from **Graphi
   <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="60" alt="Git" /></a>        
   <a href="https://portal.azure.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="60" alt="Azure App Service" /></a>        
   <a href="https://www.jenkins.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" height="60" alt="Jenkins" /></a>       
-  <a href="https://expo.dev/"><img src="https://github.com/user-attachments/assets/67e0e92c-cecd-426e-9e1d-3b91cfaeac6c" height="60" /></a>  
+  <a href="https://expo.dev/"><img src="https://github.com/user-attachments/assets/67e0e92c-cecd-426e-9e1d-3b91cfaeac6c" height="60" alt="Expo dev"/></a>  
 </p> 
 
- Git/GitHub, Azure App Service, Jenkins  
 **Core Expertise:** RESTful APIs, Web Development, CI/CD, AI Integration  
 
 ---
