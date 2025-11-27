@@ -45,7 +45,6 @@ I’m a passionate developer with a **B.Tech in Computer Science** from **Graphi
 ---
 
 ## 📊 GitHub Stats  
-![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshat2512&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat2512&layout=compact&theme=radical)  
 
 ---
