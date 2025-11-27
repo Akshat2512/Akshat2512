@@ -18,10 +18,10 @@ I’m a passionate developer with a **B.Tech in Computer Science** from **Graphi
 **Tools & Platforms:** 
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git" />        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" height="40" alt="Azure App Service" />        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins" />        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" />          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="60" alt="Git" />        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="60" alt="Azure App Service" />        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" height="60" alt="Jenkins" />        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" height="60" />          
 </p> 
 
  Git/GitHub, Azure App Service, Jenkins  
@@ -32,7 +32,7 @@ I’m a passionate developer with a **B.Tech in Computer Science** from **Graphi
 ## 💼 Experience  
 **Web Development Intern @ Octanet Software Services** *(Jul 2023 – Aug 2023)*  
 - Built an animated landing page reducing load time by **31%**  
-- Developed a **Task Management App** improving team productivity by **30%**  
+- Developed a **Task Management App** for managing tasks.
 - Created a **Disney+ Hotstar Clone** with **98% desktop performance**  
 
 ---
