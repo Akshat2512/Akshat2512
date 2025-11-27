@@ -21,10 +21,7 @@ I’m a passionate developer with a **B.Tech in Computer Science** from **Graphi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git" />        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" height="40" alt="Azure App Service" />        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins" />        
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="Expo Dev"/> -->
-  
-  <i class="devicon-expo-original"></i>
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" />          
 </p> 
 
  Git/GitHub, Azure App Service, Jenkins  
