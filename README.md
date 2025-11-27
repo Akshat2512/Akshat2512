@@ -13,7 +13,7 @@ I’m a passionate developer with a **B.Tech in Computer Science** from **Graphi
 ---
 
 ## 🛠️ Skills  
-![HTML](https://img.shields.io/badge/HTML-5-orange) ![CSS](https://img.shields.io/badge/CSS-3-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) ![Python](https://img.shields.io/badge/Python-3.9-green) ![FastAPI](https://img.shields.io/badge/FastAPI-Framework-brightgreen) ![React Native](https://img.shields.io/badge/React%20Native-Mobile-blue)  
+![HTML](https://img.shields.io/badge/HTML-5-orange) ![CSS](https://img.shields.io/badge/CSS-3-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) ![Python](https://img.shields.io/badge/Python-3.9-green) ![FastAPI](https://img.shields.io/badge/FastAPI-Framework-brightgreen) ![React Native](https://img.shields.io/badge/React%20Native-Web%20or%20Mobile-blue)  
 
 **Tools & Platforms:** Git/GitHub, Azure App Service, CI/CD, Jenkins  
 **Core Expertise:** RESTful APIs, Web Development, AI Integration  
