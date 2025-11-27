@@ -3,7 +3,7 @@
 
 📍 Farrukhabad, UP, India  
 📧 [akshat.2016603@gmail.com](mailto:akshat.2016603@gmail.com)  
-🔗 [GitHub](https://github.com/Akshat2512) | [LinkedIn](https://www.linkedin.com/in/akshat-g-449997245)  
+🔗 [LinkedIn](https://www.linkedin.com/in/akshat-g-449997245)  
 
 ---
 
