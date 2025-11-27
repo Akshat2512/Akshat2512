@@ -59,8 +59,7 @@ I’m a passionate developer with a **B.Tech in Computer Science** from **Graphi
 ---
 
 ## 📫 Connect With Me  
-
 <p align="left">
-   <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="60"  target="https://www.linkedin.com/in/akshat-g-449997245"/>   
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="60" target="https://www.linkedin.com/in/akshat-g-449997245"/>   
 </p>
 
