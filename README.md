@@ -37,7 +37,7 @@ I’m a passionate developer with a **B.Tech in Computer Science** from **Graphi
 ---
 
 ## 🏆 Achievements  
-- Published IEEE Research Paper: *[An Analytical Comparison of Crime Prediction using Machine Learning Techniques](https://ieeexplore.ieee.org/document/10739168)*  
+- Published IEEE Research Paper: *[An Analytical Comparison of Crime Prediction using Machine Learning Techniques](https://ieeexplore.ieee.org/document/10739168)* (Nov 2024)
 - Certifications:  
   - **[JP Morgan Software Engineer Simulation](https://www.theforage.com/completion-certificates/Sj7temL583QAYpHXD/E6McHJDKsQYh79moz_Sj7temL583QAYpHXD_68f9a71cd4e60dd4d4ccfed7_1763743616879_completion_certificate.pdf)** (Nov 2025)
   - **[Jenkins: Automated Delivery Pipeline](https://coursera.org/share/c7ecbb3f2c09165f199b6dacccc9633b)** (Coursera, Jul 2024)
