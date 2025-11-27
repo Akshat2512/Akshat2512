@@ -59,7 +59,7 @@ I’m a passionate developer with a **B.Tech in Computer Science** from **Graphi
 ---
 
 ## 📫 Connect With Me  
-```html
+
 <p>
   https://github.com/Akshat2512
     https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg
@@ -71,5 +71,4 @@ I’m a passionate developer with a **B.Tech in Computer Science** from **Graphi
     https://cdn.simpleicons.org/gmail/EA4335
   </a>
 </p>
-```
 
