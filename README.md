@@ -16,12 +16,16 @@ I’m a passionate developer with a **B.Tech in Computer Science** from **Graphi
 ![HTML](https://img.shields.io/badge/HTML-5-orange) ![CSS](https://img.shields.io/badge/CSS-3-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) ![Python](https://img.shields.io/badge/Python-3.10-green) ![FastAPI](https://img.shields.io/badge/FastAPI-Framework-brightgreen) ![React Native](https://img.shields.io/badge/React%20Native-Web%20or%20Mobile-blue)  
 
 **Tools & Platforms:** 
-!Git
-!GitHub
-!Azure
-!Jenkins
-!FastAPI
-!React Native
+
+<p align="left">
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="h/devicons/devicon/icons/python/python-original.svg"/>
+</p> 
+
  Git/GitHub, Azure App Service, CI/CD, Jenkins  
 **Core Expertise:** RESTful APIs, Web Development, AI Integration  
 
