@@ -13,20 +13,22 @@ I’m a passionate developer with a **B.Tech in Computer Science** from **Graphi
 ---
 
 ## 🛠️ Skills  
-![HTML](https://img.shields.io/badge/HTML-5-orange) ![CSS](https://img.shields.io/badge/CSS-3-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) ![Python](https://img.shields.io/badge/Python-3.10-green) ![FastAPI](https://img.shields.io/badge/FastAPI-Framework-brightgreen) ![React Native](https://img.shields.io/badge/React%20Native-Web-or-Mobile-blue)  
+![HTML](https://img.shields.io/badge/HTML-5-orange) ![CSS](https://img.shields.io/badge/CSS-3-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) ![Python](https://img.shields.io/badge/Python-3.10-green) ![FastAPI](https://img.shields.io/badge/FastAPI-Framework-brightgreen) ![React Native](https://img.shields.io/badge/React%20Native-Web%20or%20Mobile-blue)  
 
 **Tools & Platforms:** 
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git" />        
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="Github" />         -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" height="40" alt="Azure App Service" />        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="Fast API"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React-Native"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins" />        
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="Expo Dev"/> -->
+  
+  <i class="devicon-expo-original"></i>
+          
 </p> 
 
- Git/GitHub, Azure App Service, CI/CD, Jenkins  
-**Core Expertise:** RESTful APIs, Web Development, AI Integration  
+ Git/GitHub, Azure App Service, Jenkins  
+**Core Expertise:** RESTful APIs, Web Development, CI/CD, AI Integration  
 
 ---
 
