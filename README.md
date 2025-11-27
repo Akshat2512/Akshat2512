@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I'm Akshat Gangwar  
+**Packaged Application Development Associate | Full Stack Developer | AI Enthusiast**  
 
-<!--
-**Akshat2512/Akshat2512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Farrukhabad, UP, India  
+📧 [akshat.2016603@gmail.com](mailto:akshat.2016603@gmail.com)  
+🔗 [GitHub](https://github.com/Akshat2512) | [LinkedIn](https://www.linkedin.com/in/akshat-g-449997245)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+I’m a passionate developer with a **B.Tech in Computer Science** from **Graphic Era University** (GPA: 7.91/10). I specialize in **Full Stack Development**, **AI-powered applications**, and **cloud deployment**. My goal is to build scalable, user-friendly solutions that make an impact.
+
+---
+
+## 🛠️ Skills  
+![HTML](https://img.shields.io/badge/HTML-5-orange) ![CSS](https://img.shields.io/badge/CSS-3-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) ![Python](https://img.shields.io/badge/Python-3.9-green) ![FastAPI](https://img.shields.io/badge/FastAPI-Framework-brightgreen) ![React Native](https://img.shields.io/badge/React%20Native-Mobile-blue)  
+
+**Tools & Platforms:** Git/GitHub, Azure App Service, CI/CD, Jenkins  
+**Core Expertise:** RESTful APIs, Web Development, AI Integration  
+
+---
+
+## 💼 Experience  
+**Web Development Intern @ Octanet Software Services** *(Jul 2023 – Aug 2023)*  
+- Built an animated landing page reducing load time by **31%**  
+- Developed a **Task Management App** improving team productivity by **30%**  
+- Created a **Disney+ Hotstar Clone** with **98% desktop performance**  
+
+---
+
+## 📌 Projects  
+- **[AI ChatWave](https://github.com/Akshat2512/ChatWave.git)** – Interactive chat app with memes, GIFs & AI assist  
+- **[AI Voice Assistant](https://github.com/Akshat2512/AI-Voice-Assistant.git)** – Voice assistant using OpenAI models & real-time recognition  
+- **[Crime Prediction](https://github.com/Akshat2512/Crime-Prediction.git)** – Predicts crime rates with **80% R² score**  
+- **[Plant Disease Detection](https://github.com/Akshat2512/Plant-Health-App.git)** – ML-based plant health detection with **89% accuracy**  
+
+---
+
+## 🏆 Achievements  
+- Published IEEE Research Paper: *An Analytical Comparison of Crime Prediction using Machine Learning Techniques*  
+- Certifications:  
+  - **JP Morgan Software Engineer Simulation** (Nov 2025)  
+  - **Jenkins: Automated Delivery Pipeline** (Coursera, Jul 2024)  
+
+---
+
+## 📊 GitHub Stats  
+![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshat2512&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat2512&layout=compact&theme=radical)  
+
+---
+
+## 📫 Connect With Me  
+💻 [GitHub](https://github.com/Akshat2512)  
+🔗 [LinkedIn](https://www.linkedin.com/in/akshat-g-449997245)  
