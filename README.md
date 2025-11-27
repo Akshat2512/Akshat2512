@@ -59,5 +59,5 @@ I’m a passionate developer with a **B.Tech in Computer Science** from **Graphi
 ---
 
 ## 📫 Connect With Me  
-💻 [GitHub](https://github.com/Akshat2512)  
+💻 ![https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg](https://github.com/Akshat2512)  
 🔗 [LinkedIn](https://www.linkedin.com/in/akshat-g-449997245)  
