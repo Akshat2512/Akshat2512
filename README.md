@@ -2,7 +2,7 @@
 **Packaged Application Development Associate | Full Stack Developer | AI Enthusiast**  
 
 📍 Farrukhabad, UP, India  
-📧 [akshat.2016603@gmail.com](mailto:akshat.2016603@gmail.com)  
+📩 [akshat.2016603@gmail.com](mailto:akshat.2016603@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/akshat-g-449997245)  
 
 ---
@@ -13,7 +13,7 @@ I’m a passionate developer with a **B.Tech in Computer Science** from **Graphi
 ---
 
 ## 🛠️ Skills  
-![HTML](https://img.shields.io/badge/HTML-5-orange) ![CSS](https://img.shields.io/badge/CSS-3-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) ![Python](https://img.shields.io/badge/Python-3.10-green) ![FastAPI](https://img.shields.io/badge/FastAPI-Framework-brightgreen) ![React Native](https://img.shields.io/badge/React%20Native-Web%20or%20Mobile-blue)  
+![HTML](https://img.shields.io/badge/HTML-5-orange) ![CSS](https://img.shields.io/badge/CSS-3-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) ![Python](https://img.shields.io/badge/Python-3.10-green) ![FastAPI](https://img.shields.io/badge/FastAPI-Framework-brightgreen) ![React Native](https://img.shields.io/badge/React%20Native-Web-or-Mobile-blue)  
 
 **Tools & Platforms:** 
 
