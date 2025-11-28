@@ -30,9 +30,6 @@ I’m a passionate developer with a **B.Tech in Computer Science** from **Graphi
 
 ## 💼 Experience  
 **Web Development Intern @ Octanet Software Services** *(Jul 2023 – Aug 2023)*  
-- Built an animated landing page reducing load time by **31%**  
-- Developed a **Task Management App** for managing tasks.
-- Created a **Disney+ Hotstar Clone** with **98% desktop performance**  
 
 ---
 
