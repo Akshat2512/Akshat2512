@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Akshat Gangwar  
 **Packaged Application Development Associate | Full Stack Developer | AI Enthusiast**  
 
-📍 Farrukhabad, UP, India  
 📩 [akshat.2016603@gmail.com](mailto:akshat.2016603@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/akshat-g-449997245)  
 
