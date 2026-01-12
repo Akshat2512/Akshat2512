@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me  
-I’m a passionate developer with a **B.Tech in Computer Science** from **Graphic Era University** (GPA: 7.91/10). I have hand-on experience on **Full Stack Development**, **AI-powered applications**, and **cloud deployment**. My goal is to build scalable, user-friendly solutions that make an impact.
+I’m a passionate developer with a **B.Tech in Computer Science** from **Graphic Era University** (GPA: 7.91/10). I have hands-on experience on **Full Stack Development**, **AI-powered applications**, and **cloud deployment**. My goal is to build scalable, user-friendly solutions that make an impact.
 
 ---
 
